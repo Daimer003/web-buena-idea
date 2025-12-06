@@ -48,7 +48,7 @@
             <span class="font-semibold text-gray-800">Ubicación OK:</span>
             <!-- <span class="font-medium">Lat: {{ finderLocation.latitude }}</span>,
             <span class="font-medium">Lon: {{ finderLocation.longitude }}</span> -->
-            <span class="font-semibold text-gray-800">Mascota identificada: Rocky</span>
+            <span class="font-semibold text-gray-800">Mascota identificada: Akyra</span>
             <!-- <span class="font-mono text-xs sm:text-sm bg-gray-100 px-2 py-1 rounded">
               {{ petId }}
             </span> -->

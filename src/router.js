@@ -4,9 +4,9 @@ import FoundPetScreen from "@/view/FoundPetScreen.vue";
 
 const routes = [
   {
-   path: "/",
-   name: "home",
-   component: () => import("@/view/FoundPetScreen.vue"),
+    path: "/",
+    name: "home",
+    component: () => import("@/view/FoundPetScreen.vue"),
   },
   {
     path: "/found",
